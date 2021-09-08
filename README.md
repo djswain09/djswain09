@@ -1,4 +1,4 @@
-<h1>Hi there</h1>👋
+<h1>Hi there👋</h1>
 
 - 🔭 I’m currently working on my coding skills.
 - 🌱 I’m currently pursuing Btech.
