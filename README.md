@@ -5,6 +5,6 @@
 - 💬 Ask me about coding.
 - 📫 How to reach me: debarchanswain12345@gmail.com
 - ⚡ Fun fact: Programmers are awasome.
-<br>
-![](https://komarev.com/ghpvc/?username=djswain09&style=flat-square)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=djswain09&label=Profile%20views&color=0e75b6&style=flat" alt="debarchanswain" /> </p>
+
 
