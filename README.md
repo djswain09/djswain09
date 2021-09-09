@@ -1,4 +1,5 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=djswain09&label=Profile%20views&color=0e75b6&style=flat" alt="debarchanswain" /> </p>
+![Website](https://komarev.com/ghpvc/?username=djswain09&label=Profile%20views&color=0e75b6&style=flat)
+![Website](https://img.shields.io/github/followers/djswain9?style=social)
 <h1>Hi there👋</h1>
 
 - 🔭 I’m currently working on my skills.
@@ -11,4 +12,7 @@
 
 - ⚡ Fun fact: Programers are awasome.
 
-
+</div>
+<div align="center">
+<img  src="https://github-readme-stats.vercel.app/api?username=djswain09&show_icons=true&theme=tokyonight" />
+</div>
