@@ -33,6 +33,6 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+  <img src="https://github.com/djswain9/djswain9/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p
 
