@@ -24,7 +24,7 @@
 <br>
 <br>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=djswain9&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Debarchan Swain's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djswain9&layout=compact&theme=radical&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=djswain9&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Debarchan Swain's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djswain9&layout=defult&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
