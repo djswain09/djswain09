@@ -6,12 +6,21 @@
          height="55"
          width="60" />I'm Debarchan
 </h1>
+
+
+
          
 <h4 align="center">
         A 3rd year student pursuing my Bachelors’s in Electronics and Communication Engineering, from Silicon Institute of Technology.<br>
 I am a Linux and IoT enthusiast & Web Developer.
 </h4>
+
+
+
+
+
 <h2> <img src="https://media4.giphy.com/media/ZbH8qLL8vHXBjrBuO7/giphy.gif?cid=ecf05e47mtc1ilybozms77jo6x0ltmk7dhgc5dyckvyz5sb0&rid=giphy.gif&ct=ts" height="60" width="130" /> </h2>
+
 
 - 🔭 I’m currently working on my skills.
 
@@ -22,21 +31,17 @@ I am a Linux and IoT enthusiast & Web Developer.
 - 📫 Contact me here: debarchanswain123@gmail.com
 
 <br>
-<br>
-<br>
 
+
+
+<h2><img src="https://media0.giphy.com/media/eMaoxiwCb9nMCXyrt6/giphy.gif?cid=ecf05e47s8slru8dkijy5rmo8q4pdvnbtt6f9a6zjfudbctw&rid=giphy.gif&ct=s" height="20" width="25"/>My Github Stats <img src="https://media3.giphy.com/media/ZOKhyP4ai1guMHhwFB/giphy.gif?cid=ecf05e47jldu0czq7hzh6vxv694idc5bscx563lb0idptlno&rid=giphy.gif&ct=s" height="20" width="25" /></h2>
+<br>
+  
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=djswain9&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Debarchan Swain's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djswain9&layout=defult&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
 
-
-
-
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=djswain9&theme=radical"/>
-</div>
 
 
 
@@ -47,3 +52,9 @@ I am a Linux and IoT enthusiast & Web Developer.
 <a href="https://www.instagram.com/debarchan_swain/" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="debarchan_swain" height="50" width="50" /></a>
 </p>
 
+
+
+<!--https://media2.giphy.com/media/J4I1yCJJa37HkWjgoE/giphy.gif?cid=ecf05e47oq8blwo8ubsvyf2yz9nyj53uzwxmzrb6445mac3j&rid=giphy.gif&ct=s  
+   https://media3.giphy.com/media/kd3p781G0tgn3EH3nD/giphy.gif?cid=ecf05e47te63etcqc3shpfrwb6cy2cpmaj5r38oeazgqkx67&rid=giphy.gif&ct=s
+--this is for social media
+-->
