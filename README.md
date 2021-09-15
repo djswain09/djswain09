@@ -67,4 +67,13 @@ ______whatsapp gif______
 
 https://media0.giphy.com/media/aDtS84k1WfYiCwlIxR/200w.webp?cid=ecf05e478ij3zkqqbgkcfqi81kixt1h0l343p5lcoww7p4dq&rid=200w.webp&ct=s
 
+_____social media gif_________
+
+https://media0.giphy.com/media/AyzYjy9JekCHnrai3P/200w.webp?cid=ecf05e47c8n4az1vhc2ikx3jvcyfv2jfm46xi7dvr1shf8um&rid=200w.webp&ct=s
+
+
+
+
+
+
 -->
