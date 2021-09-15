@@ -43,8 +43,6 @@ I am a Linux and IoT enthusiast & Web Developer.
 
 
 
-
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/DebarchanSwain9" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="DebarchanSwain9" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
@@ -55,6 +53,9 @@ I am a Linux and IoT enthusiast & Web Developer.
 
 
 <!--https://media2.giphy.com/media/J4I1yCJJa37HkWjgoE/giphy.gif?cid=ecf05e47oq8blwo8ubsvyf2yz9nyj53uzwxmzrb6445mac3j&rid=giphy.gif&ct=s  
+
    https://media3.giphy.com/media/kd3p781G0tgn3EH3nD/giphy.gif?cid=ecf05e47te63etcqc3shpfrwb6cy2cpmaj5r38oeazgqkx67&rid=giphy.gif&ct=s
+
+<p align="center"><img src="https://media2.giphy.com/media/grNkIEN4dkiMXFLIE9/100.webp?cid=ecf05e473b11pr687e7e9tcucr30lrx6lks8xug18wok4m6u&rid=100.webp&ct=s" height="40px" /></p>
 --this is for social media
 -->
