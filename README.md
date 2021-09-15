@@ -36,6 +36,9 @@ I am a Linux and IoT enthusiast & Web Developer.
   
 | <img align="center" src="https://github-readme-stats-pat-3.vercel.app/api?username=djswain09&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Debarchan Swain's github stats" /> | <img align="center" src="https://github-readme-stats-pat-3.vercel.app/api/top-langs/?username=djswain09&layout=defult&theme=radical&hide_border=true" /> |
 | ------------- | ------------- |
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 <br>
 
 
@@ -48,7 +51,6 @@ I am a Linux and IoT enthusiast & Web Developer.
 <a href="https://www.linkedin.com/in/debarchan-swain-0511a2191/" target="_blank"><img align="center" src="https://media0.giphy.com/media/QcEiuqNT6aIANp7a5F/giphy.webp?cid=ecf05e47t5wwaognagunvbudtoztbnu858nsw3o0bugpjzo2&rid=giphy.webp&ct=s" alt="Debarchan Swain" height="90" width="90" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/debarchan_swain/" target="_blank"><img align="center" src="https://media2.giphy.com/media/Wu9Graz2W46frtHFKc/200w.webp?cid=ecf05e47al4xzw6s5777lelkeioab7g5uforv176ve9t8mwm&rid=200w.webp&ct=s" alt="debarchan_swain" height="90" width="90" /></a>
 </p>
-
 
 
 
