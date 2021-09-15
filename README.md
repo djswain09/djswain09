@@ -44,9 +44,9 @@ I am a Linux and IoT enthusiast & Web Developer.
 <h3 align="center">Connect with me:</h3>
 <br>
 <p align="center">
-<a href="https://twitter.com/DebarchanSwain9" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="DebarchanSwain9" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/DebarchanSwain9" target="_blank"><img align="center" src="https://media0.giphy.com/media/MUic6gGA4OkwgsozUu/giphy.gif?cid=ecf05e47h05egx8nmtr51e2csx6eexwn3zglnzh8w94yelme&rid=giphy.gif&ct=s" alt="DebarchanSwain9" height="90" width="90" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/debarchan-swain-0511a2191/" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Debarchan Swain" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/debarchan_swain/" target="_blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="debarchan_swain" height="50" width="50" /></a>
+<a href="https://www.instagram.com/debarchan_swain/" target="_blank"><img align="center" src="https://media2.giphy.com/media/Wu9Graz2W46frtHFKc/200w.webp?cid=ecf05e47al4xzw6s5777lelkeioab7g5uforv176ve9t8mwm&rid=200w.webp&ct=s" alt="debarchan_swain" height="90" width="90" /></a>
 </p>
 
 
@@ -58,4 +58,11 @@ I am a Linux and IoT enthusiast & Web Developer.
 
 <p align="center"><img src="https://media2.giphy.com/media/grNkIEN4dkiMXFLIE9/100.webp?cid=ecf05e473b11pr687e7e9tcucr30lrx6lks8xug18wok4m6u&rid=100.webp&ct=s" height="40px" /></p>
 --this is for social media
+
+
+____facebook gif__________
+https://media4.giphy.com/media/ThgV8XsPhQXFzXncMV/200w.webp?cid=ecf05e478ij3zkqqbgkcfqi81kixt1h0l343p5lcoww7p4dq&rid=200w.webp&ct=s
+
+
+
 -->
