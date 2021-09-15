@@ -41,7 +41,7 @@ I am a Linux and IoT enthusiast & Web Developer.
 
 
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Social Media<img src="https://media3.giphy.com/media/faWsfcwkzbfZQ3HOac/200.webp?cid=ecf05e47yludncl0bcbjssy6wff1cfjmhrbx2i1vzb3vhy70&rid=200.webp&ct=s" width="40" height="40" /></h3>
 <br>
 <p align="center">
 <a href="https://twitter.com/DebarchanSwain9" target="_blank"><img align="center" src="https://media0.giphy.com/media/MUic6gGA4OkwgsozUu/giphy.gif?cid=ecf05e47h05egx8nmtr51e2csx6eexwn3zglnzh8w94yelme&rid=giphy.gif&ct=s" alt="DebarchanSwain9" height="90" width="90" /></a> &nbsp;&nbsp;&nbsp;
@@ -71,7 +71,7 @@ _____social media gif_________
 
 https://media0.giphy.com/media/AyzYjy9JekCHnrai3P/200w.webp?cid=ecf05e47c8n4az1vhc2ikx3jvcyfv2jfm46xi7dvr1shf8um&rid=200w.webp&ct=s
 
-
+https://media3.giphy.com/media/faWsfcwkzbfZQ3HOac/200.webp?cid=ecf05e47yludncl0bcbjssy6wff1cfjmhrbx2i1vzb3vhy70&rid=200.webp&ct=s
 
 
 
