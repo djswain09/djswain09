@@ -63,6 +63,8 @@ I am a Linux and IoT enthusiast & Web Developer.
 ____facebook gif__________
 https://media4.giphy.com/media/ThgV8XsPhQXFzXncMV/200w.webp?cid=ecf05e478ij3zkqqbgkcfqi81kixt1h0l343p5lcoww7p4dq&rid=200w.webp&ct=s
 
+______whatsapp gif______
 
+https://media0.giphy.com/media/aDtS84k1WfYiCwlIxR/200w.webp?cid=ecf05e478ij3zkqqbgkcfqi81kixt1h0l343p5lcoww7p4dq&rid=200w.webp&ct=s
 
 -->
