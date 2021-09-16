@@ -61,7 +61,7 @@
 
 <br>
 
-<p align="center"><strong>---------------------Use dark mode for better profile view--------------------</strong></p>
+<p align="center"><strong>---Use dark mode for better profile view---</strong></p>
 
 
 
