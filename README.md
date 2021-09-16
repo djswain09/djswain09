@@ -64,7 +64,7 @@
 <p align="center"><strong>Use dark mode for better profile view</strong></p>
 
 
-
+<hr>
 
 
 
