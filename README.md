@@ -55,6 +55,15 @@
 
 
 
+<!--
+<p>
+  <a>
+    <img height="180em" src="https://github-readme-stats-pat-3.vercel.app/api?username=djswain09&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Debarchan Swain's github stats" />
+    <img height="180em" src="https://github-readme-stats-pat-3.vercel.app/api/top-langs/?username=djswain09&layout=defult&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+-->
+
 
 <p align="center">
   <img src="https://github.com/djswain09/djswain09/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
