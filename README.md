@@ -73,9 +73,10 @@
 
 
 
-<!--https://media2.giphy.com/media/J4I1yCJJa37HkWjgoE/giphy.gif?cid=ecf05e47oq8blwo8ubsvyf2yz9nyj53uzwxmzrb6445mac3j&rid=giphy.gif&ct=s  
+<!--
+https://media2.giphy.com/media/J4I1yCJJa37HkWjgoE/giphy.gif?cid=ecf05e47oq8blwo8ubsvyf2yz9nyj53uzwxmzrb6445mac3j&rid=giphy.gif&ct=s  
 
-   https://media3.giphy.com/media/kd3p781G0tgn3EH3nD/giphy.gif?cid=ecf05e47te63etcqc3shpfrwb6cy2cpmaj5r38oeazgqkx67&rid=giphy.gif&ct=s
+https://media3.giphy.com/media/kd3p781G0tgn3EH3nD/giphy.gif?cid=ecf05e47te63etcqc3shpfrwb6cy2cpmaj5r38oeazgqkx67&rid=giphy.gif&ct=s
 
 <p align="center"><img src="https://media2.giphy.com/media/grNkIEN4dkiMXFLIE9/100.webp?cid=ecf05e473b11pr687e7e9tcucr30lrx6lks8xug18wok4m6u&rid=100.webp&ct=s" height="40px" /></p>
 --this is for social media
@@ -94,6 +95,7 @@ https://media0.giphy.com/media/AyzYjy9JekCHnrai3P/200w.webp?cid=ecf05e47c8n4az1v
 
 https://media3.giphy.com/media/faWsfcwkzbfZQ3HOac/200.webp?cid=ecf05e47yludncl0bcbjssy6wff1cfjmhrbx2i1vzb3vhy70&rid=200.webp&ct=s
 
+-->
 
 
 
@@ -104,8 +106,7 @@ https://media3.giphy.com/media/faWsfcwkzbfZQ3HOac/200.webp?cid=ecf05e47yludncl0b
 
 
 
-
-
+<!--
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
@@ -130,3 +131,78 @@ https://media3.giphy.com/media/faWsfcwkzbfZQ3HOac/200.webp?cid=ecf05e47yludncl0b
 
 
 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+
+## Skilled in
+
+### Languages:
+
+<code><img src="https://raw.githubusercontent.com/shambashib20/shambashib20/master/java.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/js.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/ts.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/python.png" height="30"></code>
+
+### Web Developement
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/html.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/css.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/bt.jpg" height="30"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/jq.jpg" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/redux.png" height="30"></code>
+
+#### Backend/Server:
+
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="30"></code>
+<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0syl-pMTbiJQw4yW4R0Ll8A3a-K8jAw2M_Q&usqp=CAU" height="30"></code>
+
+#### Database:
+
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/mysql1.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/mongo.png" height="30"></code>
+
+
+### Dev-Ops:
+
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/git.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/github.png" height="30"></code>
+<code><img src="https://www.gstatic.com/devrel-devsite/prod/v2210075187f059b839246c2c03840474501c3c6024a99fb78f6293c1b4c0f664/firebase/images/touchicon-180.png" height="30"></code>
+
+
+
+## Experience
+* 🙇‍♂️ Cybersecurity Intern at Gurugram Police Cyber Cell
+* ✌️ Open Source contributor at Swift Code of Summer 2021, GirlScript Summer of Code '21 and GirlScript Winter of Code '21.
+* 🧑‍🔬 Exhibitor at West Bengal State Science Expo 2020
+
+  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shambashib20&theme=dark)  
+
+![Shambashib's Github Stats](https://github-readme-stats.vercel.app/api?username=shambashib20&count_private=true&show_icons=true&theme=dark)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shambashib20&theme=darkhub)](https://github.com/shambashib20/github-profile-trophy)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shambashib20&layout=compact&theme=dark)](https://github.com/shambashib20/github-readme-stats)
+ 
+![GitHub metrics](https://metrics.lecoq.io/shambashib20)  
+
+![Profile views](https://gpvc.arturio.dev/shambashib20)
+
+-->
+
+
