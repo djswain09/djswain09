@@ -49,6 +49,15 @@
 | ------------- | ------------- |
 
 **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+
+
+<p align="center">
+  <img src="https://github.com/djswain09/djswain09/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
+
 <br><br><br>
 
 
