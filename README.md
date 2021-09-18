@@ -24,7 +24,7 @@
 
 <h2> <img src="https://github.com/djswain9/djswain9/blob/main/gif/aboutMe.webp" height="60" width="130" alt="About Me"/> </h2>
 
-<img width="52%" align="right" alt="Github" src="https://github.githubassets.com/images/modules/notifications/inbox-zero-dark.svg" />
+<img width="55%" align="right" alt="Github" src="https://github.com/djswain9/djswain9/blob/main/images/inbox-zero-dark.svg" />
 
 
 - 🔭 I’m currently working on my skills.
