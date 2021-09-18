@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F40E&size=50&width=960&height=100&lines=The+five+boxing+wizards+jump+quickly;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)
+
 <!--![Website](https://komarev.com/ghpvc/?username=djswain09&label=Profile%20views&color=0e75b6&style=flat)-->
 <!--![Website](https://img.shields.io/github/followers/djswain09?style=social)-->
+
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=djswain09&label=Profile%20views&color=0e75b6&style=flat" alt="Total Profile Views" />
 <img src="https://img.shields.io/github/followers/djswain09?style=social" alt="Total followers on github" />
