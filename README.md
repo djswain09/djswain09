@@ -17,7 +17,7 @@
          width="60" />I'm Debarchan
 </h1>
 
-<p align="center">A <strong>3rd year</strong> student pursuing my <strong>Bachelors’s</strong> in <strong>Electronics and Communication Engineering</strong>,<br>from <strong>Silicon Institute of Technology,Bhubaneswar</strong>.<br>I am a <strong>Web Developer</strong>,<strong>Linux and IoT enthusiast</strong>.
+<p align="center">A <strong>3rd year</strong> student pursuing my <strong>Bachelors’s</strong> in <code><strong>Electronics and Communication Engineering</strong></code>,<br>from <strong>Silicon Institute of Technology,Bhubaneswar</strong>.<br>I am a <code><strong>Web Developer</strong></code>,<code><strong>Linux and IoT enthusiast</strong></code>.
 </p>
 
 
@@ -31,9 +31,9 @@
 
 - 🔭 I’m currently working on my skills.
 
-- 💬 Ask me about **Linux** and **IoT**.
+- 💬 Ask me about <code><strong>Linux</code></strong> and <code><strong>IoT</strong></code>.
 
-- 🌱 I’m currently learning **Bash Scripting** and **Web Develoment**.
+- 🌱 I’m currently learning <code><strong>Bash Scripting</strong></code> and <code><strong>Web Develoment</strong></code>.
 
 - 📫 Contact me here: **debarchanswain123@gmail.com**
 
@@ -54,7 +54,7 @@
 <br>
 
 
-<p align="center"><img src="https://github.com/djswain9/djswain9/blob/main/gif/followme.webp" width="150px" height="100px"/></p>
+<p align="center"><img src="https://github.com/djswain9/djswain9/blob/main/gif/followme.webp" width="120px" height="80px"/></p>
 <p align="center">
 <a href="https://twitter.com/DebarchanSwain9" target="_blank"><img align="center" src="https://github.com/djswain9/djswain9/blob/main/gif/twitter.webp" alt="DebarchanSwain9"  width="15%" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/debarchan-swain-0511a2191/" target="_blank"><img align="center" src="https://github.com/djswain9/djswain9/blob/main/gif/linkedin.webp" alt="Debarchan Swain" width="15%" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
