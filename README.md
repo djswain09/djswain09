@@ -64,7 +64,9 @@
 <br>
 <hr>
 
-<p align="center"><strong>Use dark mode for better profile view</strong></p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=800&lines=This+page+is+best+viewed+in+dark+mode.;Hope+you+enjoy!;Now+we+both+probably+need+to+get+back+to+coding" />
+</p>
 
 
 
