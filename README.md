@@ -64,10 +64,8 @@
 </p>
 -->
 
+   ![Snake animation](https://github.com/djswain09/djswain09/blob/output/github-contribution-grid-snake.svg)
 
-<p align="center">
-  <img src="https://github.com/djswain09/djswain09/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
 
 
 <br><br><br>
