@@ -64,11 +64,10 @@
 </p>
 -->
 
-   ![Snake animation](https://github.com/djswain09/djswain09/blob/output/github-contribution-grid-snake.svg)
+ 
 
 
-
-<br><br><br>
+<br>
 
 
 <p align="center"><img src="https://github.com/djswain9/djswain9/blob/main/gif/followme.webp" width="120px" height="80px"/></p>
@@ -77,8 +76,13 @@
 <a href="https://www.linkedin.com/in/debarchan-swain-0511a2191/" target="_blank"><img align="center" src="https://github.com/djswain9/djswain9/blob/main/gif/linkedin.webp" alt="Debarchan Swain" width="15%" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/debarchan_swain/" target="_blank"><img align="center" src="https://github.com/djswain9/djswain9/blob/main/gif/instagram.webp" alt="debarchan_swain" width="15%" /></a>
 </p>
-
 <br>
+
+
+<hr>
+<p align="center">
+  <img src="https://github.com/djswain09/djswain09/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
 <hr>
 
 <p align="center">
