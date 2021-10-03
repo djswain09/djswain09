@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1F6EEA&size=42&width=900&height=100&lines=The+five+boxing+wizards+jump+quickly;How+vexingly+quick+daft+zebras+jump" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=1F6EEA&size=42&width=900&height=150&lines=The+five+boxing+wizards+jump+quickly;How+vexingly+quick+daft+zebras+jump" />
 </p>
 
 <!--![Website](https://komarev.com/ghpvc/?username=djswain09&label=Profile%20views&color=0e75b6&style=flat)-->
