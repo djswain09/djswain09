@@ -95,17 +95,17 @@
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=1F6EEA&width=800&lines=This+page+is+best+viewed+in+dark+mode.;Now+we+both+probably+need+to+get+back+to+coding+💻.;Hope+you+enjoy!" />
 </p>
 
-<!--
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+
+
+
   
-<!--START_SECTION:activity-->
-<!--
-</details>
--->
 
-<!--START_SECTION:activity-->
+
+
+
+
+
 
 
 <!--
