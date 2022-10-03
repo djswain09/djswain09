@@ -49,16 +49,14 @@
 
 
 
-<!--
-<h2>My Github Stats <img src="https://github.com/djswain9/djswain9/blob/main/gif/stats.webp" height="25" width="30" /></h2>
+
+<h2>My Github Stats <img src="https://github.com/djswain09/djswain09/blob/main/gif/stats.webp" height="25" width="30" /></h2>
 <br>
   
-| <img align="center" src="https://github-readme-stats-pat-3.vercel.app/api?username=djswain09&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Debarchan Swain's github stats" /> | <img align="center" src="https://github-readme-stats-pat-3.vercel.app/api/top-langs/?username=djswain09&layout=defult&theme=tokyonight&hide_border=true" /> |
-| --- | --- |
-
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=djswain09&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Debarchan Swain's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djswain09&layout=defult&theme=tokyonight&hide_border=true" /> |
+| ------------- | ------------- |
 
 **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
--->
 
 
 <!--
