@@ -22,7 +22,7 @@
 <h1 align="center"><img src="https://github.com/djswain9/djswain9/blob/main/gif/hi.webp" 
          alt="Hi"
          height="55"
-         width="60" />I'm Debarchan
+         width="60" />I'm DJswain
 </h1>
 
 <p align="center">A <strong>3rd year</strong> student pursuing my <strong>Bachelors’s</strong> in <code><strong>Electronics and Communication Engineering</strong></code>,<br>from <strong>Silicon Institute of Technology,Bhubaneswar</strong>.<br>I am a <code><strong>Web Developer</strong></code>,<code><strong>Linux and IoT enthusiast</strong></code>.
