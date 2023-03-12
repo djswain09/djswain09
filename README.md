@@ -9,7 +9,7 @@
 
 <!--![Website](https://komarev.com/ghpvc/?username=djswain09&label=Profile%20views&color=0e75b6&style=flat)-->
 <!--![Website](https://img.shields.io/github/followers/djswain09?style=social)-->
-
+<!--
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=djswain09&label=Profile%20views&color=0e75b6&style=flat" alt="Total Profile Views" />
 <img src="https://img.shields.io/github/followers/djswain09?style=social" alt="Total followers on github" />
@@ -48,7 +48,7 @@
 <br>
 
 
-
+-->
 
 <h2>My Github Stats <img src="https://github.com/djswain09/djswain09/blob/main/gif/stats.webp" height="25" width="30" /></h2>
 <br>
@@ -73,7 +73,7 @@
 
 <br>
 
-
+<!--
 <p align="center"><img src="https://github.com/djswain9/djswain9/blob/main/gif/followme.webp" width="120px" height="80px"/></p>
 <p align="center">
 <a href="https://twitter.com/DebarchanSwain9" target="_blank"><img align="center" src="https://github.com/djswain9/djswain9/blob/main/gif/twitter.webp" alt="DebarchanSwain9"  width="15%" /></a> &nbsp;&nbsp;&nbsp;
@@ -82,7 +82,7 @@
 </p>
 <br>
 
-
+-->
 
 <!--
 <p align="center">
